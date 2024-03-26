@@ -23,12 +23,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Pishran\\PersianString\\": "src"
+            "DadkhahDev\\PersianString\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Pishran\\PersianString\\Test\\": "tests"
+            "DadkhahDev\\PersianString\\Test\\": "tests"
         }
     }
 }
