@@ -1,6 +1,6 @@
 <?php
 
-namespace Pishran\PersianString;
+namespace DadkhahDev\PersianString;
 
 class PersianString
 {
