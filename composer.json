@@ -1,5 +1,5 @@
 {
-    "name": "pishran/persian-string",
+    "name": "dadkhah-dev/persian-string",
     "description": "Convert Arabic/English/etc numbers and characters to Persian numbers and characters.",
     "keywords": [
         "string",
@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^7.2|^8.0"
+        "php": "^8.1|^8.2|^8.3"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.5"
