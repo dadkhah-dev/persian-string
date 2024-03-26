@@ -13,11 +13,11 @@ $persianString->convert('یك متن «تقریبا» فارسي, که شامل 
 ## روش نصب
 برای نصب و استفاده از این پکیج می توانید از کمپوسر استفاده کنید:
 
-`composer require pishran/persian-string`
+`composer require dadkhah-dev/persian-string`
 
 ## مستندات
 ```php
-use Pishran\PersianString\PersianString;
+use DadkhahDev\PersianString\PersianString;
 
 $persianString = new PersianString(bool $withEmptyRules = false)
 
